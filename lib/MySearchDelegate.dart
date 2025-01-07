@@ -2,16 +2,16 @@ import 'package:flutter/material.dart';
 
 class MySearchDelegate extends SearchDelegate {
   List<String> searchResults = [
-    "Apple",
-    "Banana",
-    "Cherry",
-    "Date",
-    "Fig",
-    "Grape",
-    "Kiwi",
-    "Lemon",
-    "Mango",
-    "BlackWa"
+    "🐱‍🏍 Apple",
+    "🐱‍👓 Banana",
+    "🐱‍👤 Cherry",
+    "🐱‍🐉Date",
+    "🐱‍🚀 Fig",
+    "✨ Grape",
+    "👺 Kiwi",
+    "🤯 Lemon",
+    "🤠 Mango",
+    "☠ BlackWa"
   ];
 
   @override
